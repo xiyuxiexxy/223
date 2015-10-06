@@ -1,0 +1,203 @@
+creating a board of: 1000000*1000000
+
+try to insert: 1 @ (3,2)
+insert: 1 @ (3,2)
+
+
+try to insert: 2 @ (4,3)
+insert: 2 @ (4,3)
+
+
+try to insert: 3 @ (4,6)
+insert: 3 @ (4,6)
+
+
+try to insert: 4 @ (5,7)
+insert: 4 @ (5,7)
+
+
+try to insert: 5 @ (6,3)
+insert: 5 @ (6,3)
+
+
+try to insert: 6 @ (8,2)
+insert: 6 @ (8,2)
+
+
+try to insert: 7 @ (9,3)
+insert: 7 @ (9,3)
+
+
+try to insert: 8 @ (9,8)
+insert: 8 @ (9,8)
+
+
+try to insert: 3 @ (7,6)
+ID conflict!
+
+try to insert: 10 @ (9,8)
+location conflict!
+
+try to move player: 4 to (9,3)
+remove is need when moving
+
+Try to remove Player: 7
+move: 7 from (9,3)
+
+Try to remove Player: 4
+move: 4 from (5,7)
+
+try to insert: 4 @ (9,3)
+insert: 4 @ (9,3)
+
+7 players on board: 
+1 at (3,2)
+2 at (4,3)
+3 at (4,6)
+4 at (9,3)
+5 at (6,3)
+6 at (8,2)
+8 at (9,8)
+
+try to move player: 4 to (9,8)
+remove is need when moving
+
+Try to remove Player: 8
+move: 8 from (9,8)
+
+Try to remove Player: 4
+move: 4 from (9,3)
+
+try to insert: 4 @ (9,8)
+insert: 4 @ (9,8)
+
+6 players on board: 
+1 at (3,2)
+2 at (4,3)
+3 at (4,6)
+4 at (9,8)
+5 at (6,3)
+6 at (8,2)
+
+try to move player: 4 to (6,3)
+illegal movement
+6 players on board: 
+1 at (3,2)
+2 at (4,3)
+3 at (4,6)
+4 at (9,8)
+5 at (6,3)
+6 at (8,2)
+
+try to move player: 2 to (3,3)
+
+Try to remove Player: 2
+move: 2 from (4,3)
+
+try to insert: 2 @ (3,3)
+insert: 2 @ (3,3)
+
+6 players on board: 
+1 at (3,2)
+2 at (3,3)
+3 at (4,6)
+4 at (9,8)
+5 at (6,3)
+6 at (8,2)
+
+try to move player: 4 to (3,2)
+remove is need when moving
+
+Try to remove Player: 1
+move: 1 from (3,2)
+
+Try to remove Player: 4
+move: 4 from (9,8)
+
+try to insert: 4 @ (3,2)
+insert: 4 @ (3,2)
+
+5 players on board: 
+2 at (3,3)
+3 at (4,6)
+4 at (3,2)
+5 at (6,3)
+6 at (8,2)
+
+try to move player: 4 to (8,2)
+remove is need when moving
+
+Try to remove Player: 6
+move: 6 from (8,2)
+
+Try to remove Player: 4
+move: 4 from (3,2)
+
+try to insert: 4 @ (8,2)
+insert: 4 @ (8,2)
+
+4 players on board: 
+2 at (3,3)
+3 at (4,6)
+4 at (8,2)
+5 at (6,3)
+
+try to move player: 5 to (3,3)
+remove is need when moving
+
+Try to remove Player: 2
+move: 2 from (3,3)
+
+Try to remove Player: 5
+move: 5 from (6,3)
+
+try to insert: 5 @ (3,3)
+insert: 5 @ (3,3)
+
+3 players on board: 
+3 at (4,6)
+4 at (8,2)
+5 at (3,3)
+
+try to move player: 4 to (4,6)
+remove is need when moving
+
+Try to remove Player: 3
+move: 3 from (4,6)
+
+Try to remove Player: 4
+move: 4 from (8,2)
+
+try to insert: 4 @ (4,6)
+insert: 4 @ (4,6)
+
+2 players on board: 
+4 at (4,6)
+5 at (3,3)
+
+try to move player: 5 to (4,3)
+
+Try to remove Player: 5
+move: 5 from (3,3)
+
+try to insert: 5 @ (4,3)
+insert: 5 @ (4,3)
+
+2 players on board: 
+4 at (4,6)
+5 at (4,3)
+
+try to move player: 4 to (4,3)
+remove is need when moving
+
+Try to remove Player: 5
+move: 5 from (4,3)
+
+Try to remove Player: 4
+move: 4 from (4,6)
+
+try to insert: 4 @ (4,3)
+insert: 4 @ (4,3)
+
+1 players on board: 
+4 at (4,3)

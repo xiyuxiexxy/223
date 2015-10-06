@@ -1,0 +1,25 @@
+"List Experiment #1, Fix M, increase N in power of two"				"Vector Experiment #1, Fix M=3, increase N in power of two"			
+"input size 2^"	"input size "	"Total Running Time for List"	"Average Elimation Time for List"	"input size log2(N) "	"input size "	"Total Running Time for Vector"	"Average Elimation Time for Vector"
+"2^2"	4	0	0	2	4	0	0
+"2^3"	8	0	0	3	8	0	0
+"2^4"	16	0	0	4	16	0	0
+"2^5"	32	0	0	5	32	0	0
+"2^6"	64	0	0	6	64	0	0
+"2^7"	128	0	0	7	128	0.016	0.125984
+"2^8"	256	0.016	0.0627451	8	256	0	0
+"2^9"	512	0.015	0.0293542	9	512	0.015	0.0293542
+"2^10"	1024	0.016	0.0156403	10	1024	0.032	0.0312805
+"2^11"	2048	0.031	0.0151441	11	2048	0.062	0.0302882
+"2^12"	4096	0.078	0.0190476	12	4096	0.109	0.0266178
+"List Experiment #2, Fix N= 10^12, increase M in power of two"				"Vector Experiment #2, Fix N=1024, increase M in power of two"			
+"M size 2^"	"input size "	"Total Running Time for List"	"Average Elimation Time for List"	"input size log2(N) "	"input size "	"Total Running Time for Vector"	"Average Elimation Time for Vector"
+"2^2"	4	0.031	0.00757021	2	4	0.109	0.0266178
+"2^3"	8	0.031	0.00757021	3	8	0.156	0.0380952
+"2^4"	16	0.063	0.0153846	4	16	0.281	0.0686203
+"2^5"	32	0.11	0.026862	5	32	0.468	0.114286
+"2^6"	64	0.219	0.0534799	6	64	0.827	0.201954
+"2^7"	128	0.468	0.114286	7	128	1.887	0.460806
+"2^8"	256	0.951	0.232234	8	256	4.508	1.10085
+"2^9"	512	2.169	0.52967	9	512	8.081	1.97338
+"2^10"	1024	4.337	1.0591	10	1024	17.145	4.18681
+"2^11"	2048	6.49	1.58486	11	2048	34.569	8.44176
